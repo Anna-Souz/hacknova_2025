@@ -1,10 +1,10 @@
-## HackNova2025
+## HackNova2025 / Team Name - Arihant n Group
 
 # Comet - College Management System & Automation
 
 ## Project Description & Features
 
-*Comet - College Management System* is designed to streamline campus operations by providing a centralized platform for managing student records, faculty details, event scheduling, and fee payments. It replaces traditional manual processes with an efficient digital management system, eliminating data silos and improving operational efficiency.
+*Comet - College Management System & Automation* is designed to streamline campus operations by providing a centralized platform for managing student records, faculty details, event scheduling, and fee payments. It replaces traditional manual processes with an efficient digital management system, eliminating data silos and improving operational efficiency.
 
 ### The Challenge: Automating College Operations
 
