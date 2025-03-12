@@ -42,23 +42,27 @@
 
 ### Dashboard Screens
 #### Image 1: Desktop view & Mobile view
-![Comet1](https://github.com/user-attachments/assets/02c82f8c-7669-4bfa-9693-1229a51b47df)
-![Comet1 1](https://github.com/user-attachments/assets/3deffaaa-1e7b-4459-b8ab-7648d601a8e2)
+![Comet1](https://github.com/user-attachments/assets/14c4ca00-cca0-4470-adb6-21b5534e3af7)
+![Comet1 1](https://github.com/user-attachments/assets/3d4d4cd5-3189-439a-b414-1a702b80516f)
 
 #### Image 2
-![Comet2](https://github.com/user-attachments/assets/704bb355-a5d2-4124-8c9c-82ca48683f8a)
+![Comet2](https://github.com/user-attachments/assets/916b942f-1eae-480e-b1e4-d8daf571743d)
+
 
 #### Image 3
-![Comet3](https://github.com/user-attachments/assets/3e636a8d-5135-4934-9f28-fe416b1129e7)
+![Comet3](https://github.com/user-attachments/assets/c8841eca-d432-4d2a-8ea2-43511588628e)
+
 
 #### Image 4
-![Comet4](https://github.com/user-attachments/assets/c903f906-1523-4489-9fb4-53a6d5c2dbf1)
+![Comet4](https://github.com/user-attachments/assets/d7a70980-c5b8-4a8a-bd5b-78793525ecfa)
+
 
 #### Image 5
-![Comet result automation processing](https://github.com/user-attachments/assets/797b6bdd-6a45-481e-bd8c-cac4c337ca70)
+![Comet result automation processing](https://github.com/user-attachments/assets/addf1fef-983b-42ef-95ad-0a0c84869edd)
+
 
 ### Automation Output
-![Comet result automation output](https://github.com/user-attachments/assets/16d8f252-6ec7-4427-9949-134a036ee3f7)
+![Comet result automation output](https://github.com/user-attachments/assets/3a6dcebc-e9b2-4fec-9383-8d945cc71f87)
 
 
 ## Contributors
