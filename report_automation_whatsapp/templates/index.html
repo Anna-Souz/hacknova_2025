@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Department Upload</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    label, select, input {
+      display: block;
+      margin-bottom: 10px;
+    }
+    #uploadSection, #formatImage {
+      display: none;
+    }
+    #formatImage {
+      margin-top: 10px;
+      max-width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <h1>Select Department</h1>
+  <form id="departmentForm" action="/upload" method="post" enctype="multipart/form-data">
+    <label for="department">Choose Department:</label>
+    <select id="department" name="department">
+      <option value="">-- Select Department --</option>
+      <option value="CSE">CSE</option>
+      <option value="ECE">ECE</option>
+      <option value="ME">ME</option>
+      <option value="CE">CE</option>
+      <option value="EE">EE</option>
+    </select>
+    
+    <div id="uploadSection">
+      <label for="file">Upload Excel File:</label>
+      <input type="file" name="file" id="file" accept=".xlsx, .xls">
+    </div>
+    
+    <button type="submit">Upload</button>
+  </form>
+
+  <img id="formatImage" src="excel_format.png" alt="Excel Format Image">
+
+  <script>
+    document.getElementById('department').addEventListener('change', function() {
+      var selectedDepartment = this.value;
+      var uploadSection = document.getElementById('uploadSection');
+      var formatImage = document.getElementById('formatImage');
+      
+      if (selectedDepartment) {
+        uploadSection.style.display = 'block';
+        formatImage.style.display = 'block';
+      } else {
+        uploadSection.style.display = 'none';
+        formatImage.style.display = 'none';
+      }
+    });
+  </script>
+</body>
+</html>
